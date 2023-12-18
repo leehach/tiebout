@@ -1,0 +1,217 @@
+"state","placefp14","county","cousubfp14","stab","cntyname","placefp","placenm","cousubnm14","placenm14","intptlon","intptlat","pop10","afact","AFACT2"
+"State code","placefp14","County code","cousubfp14","State abbreviation","County name","placefp","placenm","County subdivision name 2014","Place name 2014","Wtd centroid W longitude, degrees","Wtd centroid latitude, degrees","Total population (2010)","placefp14 to cousubfp14 allocation factor","cousubfp14 to placefp14 allocation factor"
+"34","00700","34003","00700","NJ","Bergen NJ"," "," ","Allendale borough","Allendale borough, NJ",-74.132813,41.032342,6505,1,1 
+"34","01090","34003","01090","NJ","Bergen NJ"," "," ","Alpine borough","Alpine borough, NJ",-73.930182,40.953988,1849,1,1 
+"34","05170","34003","05170","NJ","Bergen NJ"," "," ","Bergenfield borough","Bergenfield borough, NJ",-73.998745,40.923808,26764,1,1 
+"34","06490","34003","06490","NJ","Bergen NJ"," "," ","Bogota borough","Bogota borough, NJ",-74.027702,40.874456,8187,1,1 
+"34","10480","34003","10480","NJ","Bergen NJ"," "," ","Carlstadt borough","Carlstadt borough, NJ",-74.092147,40.840154,6127,1,1 
+"34","13570","34003","13570","NJ","Bergen NJ"," "," ","Cliffside Park borough","Cliffside Park borough, NJ",-73.987837,40.821892,23594,1,1 
+"34","13810","34003","13810","NJ","Bergen NJ"," "," ","Closter borough","Closter borough, NJ",-73.95885,40.972038,8373,1,1 
+"34","15820","34003","15820","NJ","Bergen NJ"," "," ","Cresskill borough","Cresskill borough, NJ",-73.964498,40.941082,8573,1,1 
+"34","17530","34003","17530","NJ","Bergen NJ"," "," ","Demarest borough","Demarest borough, NJ",-73.960379,40.954711,4881,1,1 
+"34","18400","34003","18400","NJ","Bergen NJ"," "," ","Dumont borough","Dumont borough, NJ",-73.99193,40.944635,17479,1,1 
+"34","19510","34003","19510","NJ","Bergen NJ"," "," ","East Rutherford borough","East Rutherford borough, NJ",-74.103672,40.838393,8913,1,1 
+"34","20020","34003","20020","NJ","Bergen NJ"," "," ","Edgewater borough","Edgewater borough, NJ",-73.978438,40.822817,11513,1,1 
+"34","21300","34003","21300","NJ","Bergen NJ"," "," ","Elmwood Park borough","Elmwood Park borough, NJ",-74.120376,40.906711,19403,1,1 
+"34","21450","34003","21450","NJ","Bergen NJ"," "," ","Emerson borough","Emerson borough, NJ",-74.02793,40.975825,7401,1,1 
+"34","21480","34003","21480","NJ","Bergen NJ"," "," ","Englewood city","Englewood city, NJ",-73.977531,40.893929,27130,1,1 
+"34","21510","34003","21510","NJ","Bergen NJ"," "," ","Englewood Cliffs borough","Englewood Cliffs borough, NJ",-73.954642,40.881804,5281,1,1 
+"34","22470","34003","22470","NJ","Bergen NJ"," "," ","Fair Lawn borough","Fair Lawn borough, NJ",-74.116995,40.934638,32457,1,1 
+"34","22560","34003","22560","NJ","Bergen NJ"," "," ","Fairview borough","Fairview borough, NJ",-73.99931,40.816781,13835,1,1 
+"34","24420","34003","24420","NJ","Bergen NJ"," "," ","Fort Lee borough","Fort Lee borough, NJ",-73.974048,40.850425,35345,1,1 
+"34","24990","34003","24990","NJ","Bergen NJ"," "," ","Franklin Lakes borough","Franklin Lakes borough, NJ",-74.209668,41.008981,10590,1,1 
+"34","25770","34003","25770","NJ","Bergen NJ"," "," ","Garfield city","Garfield city, NJ",-74.10813,40.878879,30487,1,1 
+"34","26640","34003","26640","NJ","Bergen NJ"," "," ","Glen Rock borough","Glen Rock borough, NJ",-74.124921,40.960246,11601,1,1 
+"34","28680","34003","28680","NJ","Bergen NJ"," "," ","Hackensack city","Hackensack city, NJ",-74.049677,40.887881,43010,1,1 
+"34","30150","34003","30150","NJ","Bergen NJ"," "," ","Harrington Park borough","Harrington Park borough, NJ",-73.979781,40.991339,4664,1,1 
+"34","30420","34003","30420","NJ","Bergen NJ"," "," ","Hasbrouck Heights borough","Hasbrouck Heights borough, NJ",-74.075508,40.862306,11839,1,1 
+"34","30540","34003","30540","NJ","Bergen NJ"," "," ","Haworth borough","Haworth borough, NJ",-73.987366,40.960669,3382,1,1 
+"34","31920","34003","31920","NJ","Bergen NJ"," "," ","Hillsdale borough","Hillsdale borough, NJ",-74.042139,41.006879,10219,1,1 
+"34","32310","34003","32310","NJ","Bergen NJ"," "," ","Ho-Ho-Kus borough","Ho-Ho-Kus borough, NJ",-74.101653,41.000411,4078,1,1 
+"34","40020","34003","40020","NJ","Bergen NJ"," "," ","Leonia borough","Leonia borough, NJ",-73.987625,40.863083,8937,1,1 
+"34","40680","34003","40680","NJ","Bergen NJ"," "," ","Little Ferry borough","Little Ferry borough, NJ",-74.039977,40.850019,10626,1,1 
+"34","41100","34003","41100","NJ","Bergen NJ"," "," ","Lodi borough","Lodi borough, NJ",-74.083731,40.876136,24136,1,1 
+"34","44880","34003","44880","NJ","Bergen NJ"," "," ","Maywood borough","Maywood borough, NJ",-74.06247,40.902305,9555,1,1 
+"34","46110","34003","46110","NJ","Bergen NJ"," "," ","Midland Park borough","Midland Park borough, NJ",-74.140502,40.99519,7128,1,1 
+"34","47610","34003","47610","NJ","Bergen NJ"," "," ","Montvale borough","Montvale borough, NJ",-74.039953,41.050475,7844,1,1 
+"34","47700","34003","47700","NJ","Bergen NJ"," "," ","Moonachie borough","Moonachie borough, NJ",-74.056239,40.839614,2708,1,1 
+"34","51660","34003","51660","NJ","Bergen NJ"," "," ","New Milford borough","New Milford borough, NJ",-74.01895,40.933431,16341,1,1 
+"34","52320","34003","52320","NJ","Bergen NJ"," "," ","North Arlington borough","North Arlington borough, NJ",-74.133322,40.789759,15392,1,1 
+"34","53430","34003","53430","NJ","Bergen NJ"," "," ","Northvale borough","Northvale borough, NJ",-73.95272,41.01107,4640,1,1 
+"34","53610","34003","53610","NJ","Bergen NJ"," "," ","Norwood borough","Norwood borough, NJ",-73.957183,40.995516,5711,1,1 
+"34","53850","34003","53850","NJ","Bergen NJ"," "," ","Oakland borough","Oakland borough, NJ",-74.233731,41.030956,12754,1,1 
+"34","54870","34003","54870","NJ","Bergen NJ"," "," ","Old Tappan borough","Old Tappan borough, NJ",-73.982611,41.013823,5750,1,1 
+"34","54990","34003","54990","NJ","Bergen NJ"," "," ","Oradell borough","Oradell borough, NJ",-74.03334,40.953638,7978,1,1 
+"34","55770","34003","55770","NJ","Bergen NJ"," "," ","Palisades Park borough","Palisades Park borough, NJ",-73.994916,40.846249,19622,1,1 
+"34","55950","34003","55950","NJ","Bergen NJ"," "," ","Paramus borough","Paramus borough, NJ",-74.067443,40.947989,26342,1,1 
+"34","56130","34003","56130","NJ","Bergen NJ"," "," ","Park Ridge borough","Park Ridge borough, NJ",-74.039906,41.034828,8645,1,1 
+"34","61680","34003","61680","NJ","Bergen NJ"," "," ","Ramsey borough","Ramsey borough, NJ",-74.142673,41.058352,14473,1,1 
+"34","62910","34003","62910","NJ","Bergen NJ"," "," ","Ridgefield borough","Ridgefield borough, NJ",-74.001123,40.832247,11032,1,1 
+"34","62940","34003","62940","NJ","Bergen NJ"," "," ","Ridgefield Park village","Ridgefield Park village, NJ",-74.022615,40.856228,12729,1,1 
+"34","63000","34003","63000","NJ","Bergen NJ"," "," ","Ridgewood village","Ridgewood village, NJ",-74.112655,40.98211,24958,1,1 
+"34","63360","34003","63360","NJ","Bergen NJ"," "," ","River Edge borough","River Edge borough, NJ",-74.038616,40.926585,11340,1,1 
+"34","64170","34003","64170","NJ","Bergen NJ"," "," ","Rockleigh borough","Rockleigh borough, NJ",-73.932796,41.005158,531,1,1 
+"34","65280","34003","65280","NJ","Bergen NJ"," "," ","Rutherford borough","Rutherford borough, NJ",-74.111394,40.828985,18061,1,1 
+"34","65400","34003","65400","NJ","Bergen NJ"," "," ","Saddle River borough","Saddle River borough, NJ",-74.099504,41.029208,3152,1,1 
+"34","72420","34003","72420","NJ","Bergen NJ"," "," ","Tenafly borough","Tenafly borough, NJ",-73.965287,40.922001,14488,1,1 
+"34","72480","34003","72480","NJ","Bergen NJ"," "," ","Teterboro borough","Teterboro borough, NJ",-74.062638,40.856966,67,1,1 
+"34","75140","34003","75140","NJ","Bergen NJ"," "," ","Upper Saddle River borough","Upper Saddle River borough, NJ",-74.098166,41.063582,8208,1,1 
+"34","76400","34003","76400","NJ","Bergen NJ"," "," ","Waldwick borough","Waldwick borough, NJ",-74.123892,41.012992,9636,1,1 
+"34","76490","34003","76490","NJ","Bergen NJ"," "," ","Wallington borough","Wallington borough, NJ",-74.107588,40.853628,11335,1,1 
+"34","80270","34003","80270","NJ","Bergen NJ"," "," ","Westwood borough","Westwood borough, NJ",-74.032853,40.988426,10908,1,1 
+"34","82300","34003","82300","NJ","Bergen NJ"," "," ","Woodcliff Lake borough","Woodcliff Lake borough, NJ",-74.059857,41.025188,5730,1,1 
+"34","82570","34003","82570","NJ","Bergen NJ"," "," ","Wood-Ridge borough","Wood-Ridge borough, NJ",-74.087066,40.849064,7629,1,1 
+"34","99999","34003","42090","NJ","Bergen NJ"," "," ","Lyndhurst township"," ",-74.12341,40.809323,20554,0.143483,1 
+"34","99999","34003","42750","NJ","Bergen NJ"," "," ","Mahwah township"," ",-74.156767,41.076811,25890,0.180733,1 
+"34","99999","34003","63690","NJ","Bergen NJ"," "," ","River Vale township"," ",-74.009883,41.012046,9659,0.067428,1 
+"34","99999","34003","63990","NJ","Bergen NJ"," "," ","Rochelle Park township"," ",-74.078614,40.90661,5530,0.038604,1 
+"34","99999","34003","65340","NJ","Bergen NJ"," "," ","Saddle Brook township"," ",-74.095835,40.904157,13659,0.095351,1 
+"34","99999","34003","68970","NJ","Bergen NJ"," "," ","South Hackensack township"," ",-74.046663,40.863122,2378,0.0166,1 
+"34","99999","34003","72360","NJ","Bergen NJ"," "," ","Teaneck township"," ",-74.011722,40.891461,39793,0.277787,1 
+"34","99999","34003","77135","NJ","Bergen NJ"," "," ","Washington township"," ",-74.060845,40.988767,9102,0.063539,1 
+"34","99999","34003","83050","NJ","Bergen NJ"," "," ","Wyckoff township"," ",-74.166048,40.997327,16685,0.116475,1 
+"36","01011","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Albertson CDP, NY",-73.648637,40.770684,5182,1,0.022897 
+"36","02968","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Atlantic Beach village, NY",-73.73264,40.589018,1891,1,0.002489 
+"36","04143","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Baldwin CDP, NY",-73.610712,40.663775,24033,1,0.031632 
+"36","04154","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Baldwin Harbor CDP, NY",-73.604586,40.632834,8102,1,0.010664 
+"36","04550","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Barnum Island CDP, NY",-73.648115,40.604059,2414,1,0.003177 
+"36","04803","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Baxter Estates village, NY",-73.696378,40.834179,999,1,0.004414 
+"36","04891","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Bay Park CDP, NY",-73.669305,40.632843,2212,1,0.002911 
+"36","05034","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","Bayville village, NY",-73.559936,40.907443,6669,1,0.022744 
+"36","05639","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Bellerose village, NY",-73.716763,40.724228,1193,1,0.00157 
+"36","05661","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Bellerose Terrace CDP, NY",-73.725018,40.722188,2198,1,0.002893 
+"36","05738","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Bellmore CDP, NY",-73.529461,40.662289,16218,1,0.021346 
+"36","06387","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","Bethpage CDP, NY",-73.484284,40.749474,16429,1,0.056031 
+"36","10132","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","Brookville village, NY",-73.578657,40.815193,3465,1,0.011817 
+"36","12419","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Carle Place CDP, NY",-73.611692,40.751283,4981,1,0.022008 
+"36","13233","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Cedarhurst village, NY",-73.727619,40.625061,6592,1,0.008676 
+"36","13618","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","Centre Island village, NY",-73.522346,40.898496,410,1,0.001398 
+"36","18597","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","Cove Neck village, NY",-73.499857,40.882412,286,1,0.000975 
+"36","21578","36059","34000","NY","Nassau NY"," "," ","Hempstead town","East Atlantic Beach CDP, NY",-73.706501,40.587003,2049,1,0.002697 
+"36","22065","36059","34000","NY","Nassau NY"," "," ","Hempstead town","East Garden City CDP, NY",-73.600938,40.724466,6208,1,0.008171 
+"36","22260","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","East Hills village, NY",-73.628213,40.796439,6932,0.996693,0.030629 
+"36","22260","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","East Hills village, NY",-73.618458,40.810952,23,0.003307,0.000078 
+"36","22480","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","East Massapequa CDP, NY",-73.435849,40.675493,19069,1,0.065034 
+"36","22502","36059","34000","NY","Nassau NY"," "," ","Hempstead town","East Meadow CDP, NY",-73.556068,40.715145,38132,1,0.05019 
+"36","22623","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","East Norwich CDP, NY",-73.531796,40.848977,2709,1,0.009239 
+"36","22876","36059","34000","NY","Nassau NY"," "," ","Hempstead town","East Rockaway village, NY",-73.666637,40.643476,9818,1,0.012923 
+"36","23217","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","East Williston village, NY",-73.634679,40.760044,2556,1,0.011294 
+"36","24273","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Elmont CDP, NY",-73.705157,40.701389,33198,1,0.043696 
+"36","25384","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","Farmingdale village, NY",-73.445359,40.732321,8189,1,0.027928 
+"36","26264","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Floral Park village, NY",-73.703142,40.72127,13524,0.85255,0.0178 
+"36","26264","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Floral Park village, NY",-73.701997,40.732025,2339,0.14745,0.010335 
+"36","26352","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Flower Hill village, NY",-73.674524,40.805568,4665,1,0.020612 
+"36","27309","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Franklin Square CDP, NY",-73.677848,40.700947,29320,1,0.038591 
+"36","27485","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Freeport village, NY",-73.586577,40.653724,42860,1,0.056413 
+"36","28178","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Garden City village, NY",-73.64674,40.726543,22371,1,0.029445 
+"36","28189","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Garden City Park CDP, NY",-73.665304,40.744026,7806,1,0.034491 
+"36","28200","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Garden City South CDP, NY",-73.660784,40.712278,4024,1,0.005296 
+"36","29113","36059","29113","NY","Nassau NY"," "," ","Glen Cove city","Glen Cove city, NY",-73.62838,40.865031,26964,1,1 
+"36","29245","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","Glen Head CDP, NY",-73.619522,40.843034,4697,1,0.016019 
+"36","29421","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Glenwood Landing CDP, NY",-73.644663,40.825731,252,0.066684,0.001113 
+"36","29421","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","Glenwood Landing CDP, NY",-73.634655,40.828659,3527,0.933315,0.012029 
+"36","30169","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Great Neck village, NY",-73.734023,40.803291,9979,1,0.044092 
+"36","30191","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Great Neck Estates village, NY",-73.737769,40.786987,2761,1,0.012199 
+"36","30202","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Great Neck Gardens CDP, NY",-73.72227,40.796938,1186,1,0.00524 
+"36","30213","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Great Neck Plaza village, NY",-73.726248,40.786924,6707,1,0.029635 
+"36","30598","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Greenvale CDP, NY",-73.626138,40.81131,774,0.707495,0.00342 
+"36","30598","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","Greenvale CDP, NY",-73.62327,40.814739,320,0.292505,0.001091 
+"36","32094","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Harbor Hills CDP, NY",-73.747919,40.789379,586,1,0.002589 
+"36","32105","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Harbor Isle CDP, NY",-73.665055,40.602364,1301,1,0.001712 
+"36","33139","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Hempstead village, NY",-73.618632,40.705833,53891,1,0.070932 
+"36","34198","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Herricks CDP, NY",-73.663792,40.756334,4295,1,0.018977 
+"36","34286","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Hewlett CDP, NY",-73.694993,40.641936,6819,1,0.008975 
+"36","34297","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Hewlett Bay Park village, NY",-73.69598,40.634057,404,1,0.000532 
+"36","34308","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Hewlett Harbor village, NY",-73.683714,40.634755,1263,1,0.001662 
+"36","34319","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Hewlett Neck village, NY",-73.69908,40.625099,445,1,0.000586 
+"36","34374","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","Hicksville CDP, NY",-73.523,40.763397,41547,1,0.141695 
+"36","37583","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Inwood CDP, NY",-73.744838,40.618094,9792,1,0.012888 
+"36","37847","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Island Park village, NY",-73.655893,40.604437,4655,1,0.006127 
+"36","38539","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","Jericho CDP, NY",-73.538315,40.786306,13567,1,0.04627 
+"36","39309","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Kensington village, NY",-73.723921,40.792977,1161,1,0.00513 
+"36","39694","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Kings Point village, NY",-73.741672,40.815036,5034,1,0.022243 
+"36","40937","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Lake Success village, NY",-73.714091,40.769018,2934,1,0.012964 
+"36","41003","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Lakeview CDP, NY",-73.655452,40.675393,5615,1,0.007391 
+"36","41432","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","Lattingtown village, NY",-73.594347,40.890386,1739,1,0.005931 
+"36","41487","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","Laurel Hollow village, NY",-73.476289,40.853337,1952,1,0.006657 
+"36","41553","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Lawrence village, NY",-73.729136,40.611968,6483,1,0.008533 
+"36","42081","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Levittown CDP, NY",-73.512619,40.724589,51881,1,0.068286 
+"36","42279","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Lido Beach CDP, NY",-73.623255,40.589493,2897,1,0.003813 
+"36","43192","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","Locust Valley CDP, NY",-73.595143,40.87761,3406,1,0.011616 
+"36","43335","36059","43335","NY","Nassau NY"," "," ","Long Beach city","Long Beach city, NY",-73.664616,40.587546,33275,1,1 
+"36","43874","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Lynbrook village, NY",-73.674101,40.657671,19427,1,0.02557 
+"36","44787","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Malverne village, NY",-73.673016,40.674552,8514,1,0.011206 
+"36","44792","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Malverne Park Oaks CDP, NY",-73.663376,40.680998,505,1,0.000665 
+"36","44897","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Manhasset CDP, NY",-73.694557,40.791276,8080,1,0.035701 
+"36","44908","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Manhasset Hills CDP, NY",-73.679715,40.759153,3592,1,0.015871 
+"36","45106","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Manorhaven village, NY",-73.714496,40.841843,6556,1,0.028968 
+"36","45986","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","Massapequa CDP, NY",-73.471223,40.669207,21685,1,0.073956 
+"36","45997","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","Massapequa Park village, NY",-73.44934,40.683757,17008,1,0.058005 
+"36","46107","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","Matinecock village, NY",-73.584387,40.866499,810,1,0.002762 
+"36","46668","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Merrick CDP, NY",-73.552029,40.658662,22097,1,0.029084 
+"36","47405","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","Mill Neck village, NY",-73.554695,40.884792,997,1,0.0034 
+"36","47636","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Mineola village, NY",-73.648851,40.737084,16,0.000851,0.000021 
+"36","47636","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Mineola village, NY",-73.639552,40.747075,18783,0.999149,0.082992 
+"36","49231","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Munsey Park village, NY",-73.681637,40.799119,2693,1,0.011899 
+"36","49330","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","Muttontown village, NY",-73.531068,40.821211,3497,1,0.011926 
+"36","50067","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","New Cassel CDP, NY",-73.568048,40.760152,14059,1,0.062119 
+"36","50397","36059","34000","NY","Nassau NY"," "," ","Hempstead town","New Hyde Park village, NY",-73.686745,40.728127,4038,0.415774,0.005315 
+"36","50397","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","New Hyde Park village, NY",-73.685807,40.73552,5674,0.584226,0.02507 
+"36","51517","36059","34000","NY","Nassau NY"," "," ","Hempstead town","North Bellmore CDP, NY",-73.53851,40.69006,19941,1,0.026247 
+"36","53022","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","North Hills village, NY",-73.674436,40.776102,5075,1,0.022424 
+"36","53231","36059","34000","NY","Nassau NY"," "," ","Hempstead town","North Lynbrook CDP, NY",-73.673792,40.668761,793,1,0.001044 
+"36","53253","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","North Massapequa CDP, NY",-73.469715,40.704741,17886,1,0.061 
+"36","53264","36059","34000","NY","Nassau NY"," "," ","Hempstead town","North Merrick CDP, NY",-73.560345,40.686551,12272,1,0.016153 
+"36","53275","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","North New Hyde Park CDP, NY",-73.689094,40.744477,14899,1,0.065831 
+"36","53748","36059","34000","NY","Nassau NY"," "," ","Hempstead town","North Valley Stream CDP, NY",-73.710147,40.684015,16628,1,0.021886 
+"36","53792","36059","34000","NY","Nassau NY"," "," ","Hempstead town","North Wantagh CDP, NY",-73.507745,40.697963,11960,1,0.015742 
+"36","54441","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Oceanside CDP, NY",-73.636751,40.636693,32109,1,0.042262 
+"36","54551","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","Old Bethpage CDP, NY",-73.455558,40.762915,5523,1,0.018836 
+"36","54562","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","Old Brookville village, NY",-73.605625,40.832099,2134,1,0.007278 
+"36","54705","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Old Westbury village, NY",-73.607312,40.779074,2553,0.546564,0.01128 
+"36","54705","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","Old Westbury village, NY",-73.576515,40.797167,2118,0.453436,0.007223 
+"36","55992","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","Oyster Bay CDP, NY",-73.532128,40.865904,6707,1,0.022874 
+"36","56011","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","Oyster Bay Cove village, NY",-73.504037,40.854975,2197,1,0.007493 
+"36","58409","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","Plainedge CDP, NY",-73.477533,40.723552,8817,1,0.03007 
+"36","58442","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","Plainview CDP, NY",-73.479986,40.780204,26217,1,0.089413 
+"36","58475","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Plandome village, NY",-73.699547,40.806585,1349,1,0.005961 
+"36","58486","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Plandome Heights village, NY",-73.704267,40.802198,1005,1,0.004441 
+"36","58497","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Plandome Manor village, NY",-73.699098,40.813635,872,1,0.003853 
+"36","58849","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Point Lookout CDP, NY",-73.58017,40.590234,1219,1,0.001604 
+"36","59520","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Port Washington CDP, NY",-73.688066,40.830406,15846,1,0.070015 
+"36","59531","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Port Washington North village, NY",-73.702179,40.844918,3154,1,0.013936 
+"36","63264","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Rockville Centre village, NY",-73.637563,40.663143,24023,1,0.031619 
+"36","63506","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Roosevelt CDP, NY",-73.585479,40.679587,16258,1,0.021399 
+"36","63770","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Roslyn village, NY",-73.648695,40.796908,2770,1,0.012239 
+"36","63792","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Roslyn Estates village, NY",-73.661146,40.793318,1251,1,0.005528 
+"36","63803","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Roslyn Harbor village, NY",-73.638919,40.814376,757,0.720266,0.003345 
+"36","63803","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","Roslyn Harbor village, NY",-73.633122,40.82269,294,0.279733,0.001003 
+"36","63814","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Roslyn Heights CDP, NY",-73.642298,40.781485,6577,1,0.02906 
+"36","64232","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Russell Gardens village, NY",-73.724774,40.781528,945,1,0.004175 
+"36","64430","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Saddle Rock village, NY",-73.749638,40.794279,830,1,0.003667 
+"36","64441","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Saddle Rock Estates CDP, NY",-73.741617,40.793676,471,1,0.002081 
+"36","64842","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Salisbury CDP, NY",-73.559962,40.745163,12093,1,0.015917 
+"36","65035","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Sands Point village, NY",-73.704395,40.851041,2675,1,0.011819 
+"36","66047","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","Sea Cliff village, NY",-73.643599,40.845823,4995,1,0.017035 
+"36","66058","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Seaford CDP, NY",-73.49214,40.669467,15294,1,0.02013 
+"36","66102","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Searingtown CDP, NY",-73.660097,40.770998,4915,1,0.021717 
+"36","69001","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","South Farmingdale CDP, NY",-73.446409,40.717903,14486,1,0.049404 
+"36","69023","36059","34000","NY","Nassau NY"," "," ","Hempstead town","South Floral Park village, NY",-73.700542,40.713503,1764,1,0.002322 
+"36","69188","36059","34000","NY","Nassau NY"," "," ","Hempstead town","South Hempstead CDP, NY",-73.6212,40.682019,3243,1,0.004268 
+"36","69892","36059","34000","NY","Nassau NY"," "," ","Hempstead town","South Valley Stream CDP, NY",-73.717917,40.654938,5962,1,0.007847 
+"36","71267","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Stewart Manor village, NY",-73.685427,40.719928,1896,1,0.002496 
+"36","72554","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","Syosset CDP, NY",-73.500793,40.813305,18829,1,0.064216 
+"36","73605","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Thomaston village, NY",-73.715874,40.786773,2617,1,0.011563 
+"36","76089","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Uniondale CDP, NY",-73.591916,40.701988,24759,1,0.032588 
+"36","76287","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","University Gardens CDP, NY",-73.729337,40.774218,4226,1,0.018672 
+"36","76331","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","Upper Brookville village, NY",-73.566125,40.842886,1698,1,0.005791 
+"36","76705","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Valley Stream village, NY",-73.704691,40.664859,37511,1,0.049372 
+"36","78146","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Wantagh CDP, NY",-73.509917,40.675528,18871,1,0.024838 
+"36","79444","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Westbury village, NY",-73.588733,40.758867,15040,1,0.066454 
+"36","80225","36059","34000","NY","Nassau NY"," "," ","Hempstead town","West Hempstead CDP, NY",-73.652704,40.696742,18862,1,0.024826 
+"36","82117","36059","53000","NY","Nassau NY"," "," ","North Hempstead town","Williston Park village, NY",-73.64671,40.759095,7287,1,0.032197 
+"36","82744","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town","Woodbury CDP, NY",-73.471045,40.815429,8907,1,0.030377 
+"36","82942","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Woodmere CDP, NY",-73.718833,40.636946,17121,1,0.022535 
+"36","82986","36059","34000","NY","Nassau NY"," "," ","Hempstead town","Woodsburgh village, NY",-73.708384,40.624185,778,1,0.001024 
+"36","99999","36059","53000","NY","Nassau NY"," "," ","North Hempstead town"," ",-73.699811,40.787042,642,0.61318,0.002837 
+"36","99999","36059","56000","NY","Nassau NY"," "," ","Oyster Bay town"," ",-73.582136,40.902239,405,0.386819,0.001381 

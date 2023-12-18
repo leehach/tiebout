@@ -1,0 +1,41 @@
+NJ Crime Data: https://nj.gov/njsp/ucr/uniform-crime-reports.shtml
+
+The Geocorr application of the Missouri Census Data Center was used to create a relationship file between block groups and LGUs in Bergen and Nassau. The application uses the Census blocks to calculate what proportion of population of each block group falls in 
+
+
+Investigating Lines GDF created by listw2lines. Lines are duplicated.
+
+i   j
+1   93
+1   154
+1   570
+1   660
+93  1
+154 1
+570 1
+660 1
+
+Winnow the list by filtering, keep i < j.
+
+South Hackensack Township posed unique problems. The township is comprised of three noncontiguous pieces. One of those pieces has zero population, one has small population (8% of a block group that mostly lies within Wood-Ridge borough, NJ), and one is comprised of two block groups, one of which overlaps the lightly populated Teterboro borough. Teterboro, largely comprised of the Teterboro Airport, is the fourth smallest borough in New Jersey by population. For the purposes of this study, the block group block group population was considered to reside entirely in South Hackensack and the connections network was adjusted to remove Teterboro as a node. (Modify other two pieces as well?)
+
+Added Queens - need to exclude GQ block groups and industrial areas (airports)
+
+All block groups with suppressed MHI have counts of households by income buckets
+
+Should I use race of householder instead of population?
+
+Possible alternative paths:
+
+- Tracts instead of block groups
+- Intersection-based units of analysis
+
+Nassau Strat-Com data
+URLs begin with https://www.pdcn.org/DocumentCenter/View/
+
+392 says Nov 2016 but is Oct 2019 (1st pct)
+391 says Nov 2016 but is Oct 2019 (2nd pct)
+396 says Nov 2016 but is Oct 2019 (3rd pct)
+395 says Nov 2016 but is Oct 2019 (4th pct)
+394 says Nov 2016 but is Oct 2019 (5th pct)
+393 is actually Nov 2016 (7th pct)

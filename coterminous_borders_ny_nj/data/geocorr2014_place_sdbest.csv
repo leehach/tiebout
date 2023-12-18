@@ -1,0 +1,265 @@
+"state","placefp14","sdbest14","stab","placefp","placenm","placenm14","bschlnm14","intptlon","intptlat","pop10","afact","AFACT2"
+"State code","placefp14","sdbest14","State abbreviation","placefp","placenm","Place name 2014","Best school district name 2014","Wtd centroid W longitude, degrees","Wtd centroid latitude, degrees","Total population (2010)","placefp14 to sdbest14 allocation factor","sdbest14 to placefp14 allocation factor"
+"36","01011","14280","NY"," "," ","Albertson CDP, NY","Herricks Union Free School District",-73.652236,40.76807,2427,0.468352,0.098355 
+"36","01011","19500","NY"," "," ","Albertson CDP, NY","Mineola Union Free School District",-73.645429,40.772511,2592,0.500193,0.110162 
+"36","01011","25050","NY"," "," ","Albertson CDP, NY","Roslyn Union Free School District",-73.646045,40.780551,163,0.031455,0.009349 
+"36","02968","16830","NY"," "," ","Atlantic Beach village, NY","Lawrence Union Free School District",-73.73264,40.589018,1891,1,0.053133 
+"36","04143","03840","NY"," "," ","Baldwin CDP, NY","Baldwin Union Free School District",-73.610707,40.662871,22222,0.924645,0.676736 
+"36","04143","21570","NY"," "," ","Baldwin CDP, NY","Oceanside Union Free School District",-73.618964,40.650494,367,0.015271,0.00996 
+"36","04143","24780","NY"," "," ","Baldwin CDP, NY","Rockville Centre Union Free School District",-73.621504,40.672602,179,0.007448,0.00815 
+"36","04143","24990","NY"," "," ","Baldwin CDP, NY","Roosevelt Union Free School District",-73.599643,40.681779,456,0.018974,0.025871 
+"36","04143","29280","NY"," "," ","Baldwin CDP, NY","Uniondale Union Free School District",-73.610961,40.682537,809,0.033662,0.019245 
+"36","04154","03840","NY"," "," ","Baldwin Harbor CDP, NY","Baldwin Union Free School District",-73.604586,40.632834,8102,1,0.246734 
+"36","04550","15480","NY"," "," ","Barnum Island CDP, NY","Island Park Union Free School District",-73.648115,40.604059,2414,1,0.288411 
+"36","04803","23580","NY"," "," ","Baxter Estates village, NY","Port Washington Union Free School District",-73.696378,40.834179,999,1,0.032152 
+"36","04891","09960","NY"," "," ","Bay Park CDP, NY","East Rockaway Union Free School District",-73.669305,40.632843,2212,1,0.226477 
+"36","05034","17700","NY"," "," ","Bayville village, NY","Locust Valley Central School District",-73.559936,40.907443,6669,1,0.426953 
+"36","05639","11160","NY"," "," ","Bellerose village, NY","Floral Park-Bellerose Union Free School District",-73.716763,40.724228,1193,1,0.059418 
+"36","05661","11160","NY"," "," ","Bellerose Terrace CDP, NY","Floral Park-Bellerose Union Free School District",-73.725018,40.722188,2198,1,0.109473 
+"36","05738","04410","NY"," "," ","Bellmore CDP, NY","Bellmore Union Free School District",-73.528579,40.6586,12471,0.76896,0.994576 
+"36","05738","20940","NY"," "," ","Bellmore CDP, NY","North Bellmore Union Free School District",-73.532397,40.674569,3747,0.23104,0.143646 
+"36","06387","04740","NY"," "," ","Bethpage CDP, NY","Bethpage Union Free School District",-73.484482,40.74966,15933,0.969809,0.831316 
+"36","06387","10980","NY"," "," ","Bethpage CDP, NY","Farmingdale Union Free School District",-73.464759,40.733476,293,0.017834,0.008439 
+"36","06387","14340","NY"," "," ","Bethpage CDP, NY","Hicksville Union Free School District",-73.499936,40.754966,160,0.009739,0.00403 
+"36","06387","23220","NY"," "," ","Bethpage CDP, NY","Plainview-Old Bethpage Central School District",-73.485747,40.769132,43,0.002617,0.0015 
+"36","10132","15810","NY"," "," ","Brookville village, NY","Jericho Union Free School District",-73.58127,40.814567,2986,0.86176,0.172124 
+"36","10132","17700","NY"," "," ","Brookville village, NY","Locust Valley Central School District",-73.562366,40.819095,479,0.13824,0.030666 
+"36","12419","06540","NY"," "," ","Carle Place CDP, NY","Carle Place Union Free School District",-73.611692,40.751283,4981,1,0.528993 
+"36","13233","16830","NY"," "," ","Cedarhurst village, NY","Lawrence Union Free School District",-73.727619,40.625061,6592,1,0.18522 
+"36","13618","22290","NY"," "," ","Centre Island village, NY","Oyster Bay-East Norwich Central School District",-73.522346,40.898496,410,1,0.031044 
+"36","18597","22290","NY"," "," ","Cove Neck village, NY","Oyster Bay-East Norwich Central School District",-73.499857,40.882412,286,1,0.021655 
+"36","21578","16830","NY"," "," ","East Atlantic Beach CDP, NY","Lawrence Union Free School District",-73.711195,40.587498,785,0.383114,0.022057 
+"36","21578","17730","NY"," "," ","East Atlantic Beach CDP, NY","Long Beach City School District",-73.703586,40.586696,1264,0.616886,0.032699 
+"36","22065","14130","NY"," "," ","East Garden City CDP, NY","Hempstead Union Free School District",-73.606923,40.714824,321,0.051707,0.00726 
+"36","22065","29280","NY"," "," ","East Garden City CDP, NY","Uniondale Union Free School District",-73.600638,40.724936,5872,0.945876,0.13969 
+"36","22065","30960","NY"," "," ","East Garden City CDP, NY","Westbury Union Free School District",-73.590344,40.746829,15,0.002416,0.00057 
+"36","22260","10050","NY"," "," ","East Hills village, NY","East Williston Union Free School District",-73.623132,40.787258,404,0.058088,0.045732 
+"36","22260","15810","NY"," "," ","East Hills village, NY","Jericho Union Free School District",-73.618458,40.810952,23,0.003307,0.001326 
+"36","22260","25050","NY"," "," ","East Hills village, NY","Roslyn Union Free School District",-73.628528,40.797007,6528,0.938605,0.374419 
+"36","22480","02940","NY"," "," ","East Massapequa CDP, NY","Amityville Union Free School District",-73.428938,40.678189,6719,0.352352,1 
+"36","22480","10980","NY"," "," ","East Massapequa CDP, NY","Farmingdale Union Free School District",-73.437106,40.702736,1251,0.065604,0.036032 
+"36","22480","18630","NY"," "," ","East Massapequa CDP, NY","Massapequa Union Free School District",-73.439891,40.670791,11099,0.582044,0.235423 
+"36","22502","09840","NY"," "," ","East Meadow CDP, NY","East Meadow Union Free School District",-73.556068,40.715145,38132,1,0.731872 
+"36","22623","22290","NY"," "," ","East Norwich CDP, NY","Oyster Bay-East Norwich Central School District",-73.531796,40.848977,2709,1,0.205118 
+"36","22876","09960","NY"," "," ","East Rockaway village, NY","East Rockaway Union Free School District",-73.663281,40.643573,6290,0.64066,0.644005 
+"36","22876","17910","NY"," "," ","East Rockaway village, NY","Lynbrook Union Free School District",-73.672622,40.643304,3528,0.35934,0.200375 
+"36","23217","10050","NY"," "," ","East Williston village, NY","East Williston Union Free School District",-73.634679,40.760044,2556,1,0.289336 
+"36","24273","10620","NY"," "," ","Elmont CDP, NY","Elmont Union Free School District",-73.705728,40.702063,31455,0.947496,0.62871 
+"36","24273","29430","NY"," "," ","Elmont CDP, NY","Valley Stream Union Free School District 13",-73.694857,40.68923,1743,0.052503,0.061642 
+"36","25384","10980","NY"," "," ","Farmingdale village, NY","Farmingdale Union Free School District",-73.445359,40.732321,8189,1,0.235865 
+"36","26264","10620","NY"," "," ","Floral Park village, NY","Elmont Union Free School District",-73.688465,40.72277,16,0.001009,0.00032 
+"36","26264","11160","NY"," "," ","Floral Park village, NY","Floral Park-Bellerose Union Free School District",-73.702988,40.722856,15847,0.998991,0.789272 
+"36","26352","18270","NY"," "," ","Flower Hill village, NY","Manhasset Union Free School District",-73.684708,40.80349,1453,0.311468,0.08988 
+"36","26352","23580","NY"," "," ","Flower Hill village, NY","Port Washington Union Free School District",-73.676719,40.81053,1632,0.349839,0.052525 
+"36","26352","25050","NY"," "," ","Flower Hill village, NY","Roslyn Union Free School District",-73.662892,40.802354,1580,0.338692,0.090622 
+"36","27309","10620","NY"," "," ","Franklin Square CDP, NY","Elmont Union Free School District",-73.686876,40.705479,4329,0.147647,0.086526 
+"36","27309","11460","NY"," "," ","Franklin Square CDP, NY","Franklin Square Union Free School District",-73.674781,40.70402,18795,0.64103,0.752492 
+"36","27309","29430","NY"," "," ","Franklin Square CDP, NY","Valley Stream Union Free School District 13",-73.680844,40.688458,6196,0.211323,0.219126 
+"36","27485","03840","NY"," "," ","Freeport village, NY","Baldwin Union Free School District",-73.598003,40.668194,1776,0.041437,0.054085 
+"36","27485","11550","NY"," "," ","Freeport village, NY","Freeport Union Free School District",-73.586012,40.652334,39410,0.919505,0.986063 
+"36","27485","24990","NY"," "," ","Freeport village, NY","Roosevelt Union Free School District",-73.587764,40.671087,1674,0.039057,0.094973 
+"36","28178","11760","NY"," "," ","Garden City village, NY","Garden City Union Free School District",-73.64674,40.726543,22371,1,1 
+"36","28189","14280","NY"," "," ","Garden City Park CDP, NY","Herricks Union Free School District",-73.663989,40.748782,3365,0.431078,0.136367 
+"36","28189","19500","NY"," "," ","Garden City Park CDP, NY","Mineola Union Free School District",-73.657662,40.739686,404,0.051755,0.01717 
+"36","28189","20400","NY"," "," ","Garden City Park CDP, NY","New Hyde Park-Garden City Park Union Free School District",-73.667165,40.740496,4037,0.517166,0.177474 
+"36","28200","11460","NY"," "," ","Garden City South CDP, NY","Franklin Square Union Free School District",-73.660784,40.712278,4024,1,0.161108 
+"36","29113","12180","NY"," "," ","Glen Cove city, NY","Glen Cove City School District",-73.62838,40.865031,26964,1,1 
+"36","29245","17700","NY"," "," ","Glen Head CDP, NY","Locust Valley Central School District",-73.591434,40.855862,7,0.00149,0.000448 
+"36","29245","26370","NY"," "," ","Glen Head CDP, NY","North Shore Central School District",-73.619564,40.843015,4690,0.998509,0.287131 
+"36","29421","25050","NY"," "," ","Glenwood Landing CDP, NY","Roslyn Union Free School District",-73.626345,40.821148,27,0.007145,0.001549 
+"36","29421","26370","NY"," "," ","Glenwood Landing CDP, NY","North Shore Central School District",-73.635387,40.828516,3752,0.992855,0.229705 
+"36","30169","12510","NY"," "," ","Great Neck village, NY","Great Neck Union Free School District",-73.734023,40.803291,9979,1,0.223845 
+"36","30191","12510","NY"," "," ","Great Neck Estates village, NY","Great Neck Union Free School District",-73.737769,40.786987,2761,1,0.061934 
+"36","30202","12510","NY"," "," ","Great Neck Gardens CDP, NY","Great Neck Union Free School District",-73.72227,40.796938,1186,1,0.026604 
+"36","30213","12510","NY"," "," ","Great Neck Plaza village, NY","Great Neck Union Free School District",-73.726248,40.786924,6707,1,0.150449 
+"36","30598","25050","NY"," "," ","Greenvale CDP, NY","Roslyn Union Free School District",-73.626331,40.811326,749,0.684643,0.04296 
+"36","30598","26370","NY"," "," ","Greenvale CDP, NY","North Shore Central School District",-73.623058,40.814458,345,0.315356,0.021122 
+"36","32094","12510","NY"," "," ","Harbor Hills CDP, NY","Great Neck Union Free School District",-73.747919,40.789379,586,1,0.013145 
+"36","32105","15480","NY"," "," ","Harbor Isle CDP, NY","Island Park Union Free School District",-73.665055,40.602364,1301,1,0.155436 
+"36","33139","14130","NY"," "," ","Hempstead village, NY","Hempstead Union Free School District",-73.621207,40.707007,43704,0.81097,0.988487 
+"36","33139","24780","NY"," "," ","Hempstead village, NY","Rockville Centre Union Free School District",-73.618121,40.688858,235,0.004361,0.0107 
+"36","33139","29280","NY"," "," ","Hempstead village, NY","Uniondale Union Free School District",-73.606973,40.700969,9849,0.182758,0.234299 
+"36","33139","30660","NY"," "," ","Hempstead village, NY","West Hempstead Union Free School District",-73.641785,40.711431,103,0.001911,0.006018 
+"36","34198","14280","NY"," "," ","Herricks CDP, NY","Herricks Union Free School District",-73.663792,40.756334,4295,1,0.174056 
+"36","34286","17910","NY"," "," ","Hewlett CDP, NY","Lynbrook Union Free School District",-73.6811,40.645534,950,0.139317,0.053956 
+"36","34286","31710","NY"," "," ","Hewlett CDP, NY","Hewlett-Woodmere Union Free School District",-73.697242,40.641353,5869,0.860683,0.288318 
+"36","34297","31710","NY"," "," ","Hewlett Bay Park village, NY","Hewlett-Woodmere Union Free School District",-73.69598,40.634057,404,1,0.019847 
+"36","34308","17910","NY"," "," ","Hewlett Harbor village, NY","Lynbrook Union Free School District",-73.6793,40.635953,384,0.304038,0.02181 
+"36","34308","31710","NY"," "," ","Hewlett Harbor village, NY","Hewlett-Woodmere Union Free School District",-73.685642,40.634232,879,0.695962,0.043181 
+"36","34319","31710","NY"," "," ","Hewlett Neck village, NY","Hewlett-Woodmere Union Free School District",-73.69908,40.625099,445,1,0.021861 
+"36","34374","04740","NY"," "," ","Hicksville CDP, NY","Bethpage Union Free School District",-73.507948,40.747365,1123,0.02703,0.058593 
+"36","34374","14340","NY"," "," ","Hicksville CDP, NY","Hicksville Union Free School District",-73.523968,40.762762,38717,0.931884,0.975239 
+"36","34374","15810","NY"," "," ","Hicksville CDP, NY","Jericho Union Free School District",-73.538275,40.777758,46,0.001107,0.002652 
+"36","34374","28560","NY"," "," ","Hicksville CDP, NY","Syosset Central School District",-73.510203,40.788654,1661,0.039979,0.048567 
+"36","37583","16830","NY"," "," ","Inwood CDP, NY","Lawrence Union Free School District",-73.744838,40.618094,9792,1,0.275133 
+"36","37847","15480","NY"," "," ","Island Park village, NY","Island Park Union Free School District",-73.655893,40.604437,4655,1,0.556153 
+"36","38539","14340","NY"," "," ","Jericho CDP, NY","Hicksville Union Free School District",-73.523677,40.780776,823,0.060662,0.02073 
+"36","38539","15810","NY"," "," ","Jericho CDP, NY","Jericho Union Free School District",-73.541689,40.784984,11059,0.815139,0.63748 
+"36","38539","28560","NY"," "," ","Jericho CDP, NY","Syosset Central School District",-73.523324,40.797689,1685,0.124198,0.049269 
+"36","39309","12510","NY"," "," ","Kensington village, NY","Great Neck Union Free School District",-73.723965,40.792973,1157,0.996554,0.025953 
+"36","39309","18270","NY"," "," ","Kensington village, NY","Manhasset Union Free School District",-73.711277,40.794069,4,0.003445,0.000247 
+"36","39694","12510","NY"," "," ","Kings Point village, NY","Great Neck Union Free School District",-73.741672,40.815036,5034,1,0.112921 
+"36","40937","12510","NY"," "," ","Lake Success village, NY","Great Neck Union Free School District",-73.714091,40.769018,2934,1,0.065814 
+"36","41003","14130","NY"," "," ","Lakeview CDP, NY","Hempstead Union Free School District",-73.634248,40.686629,15,0.002671,0.000339 
+"36","41003","18210","NY"," "," ","Lakeview CDP, NY","Malverne Union Free School District",-73.655571,40.675003,5335,0.950133,0.35803 
+"36","41003","30660","NY"," "," ","Lakeview CDP, NY","West Hempstead Union Free School District",-73.654251,40.682619,265,0.047195,0.015483 
+"36","41432","17700","NY"," "," ","Lattingtown village, NY","Locust Valley Central School District",-73.594347,40.890386,1739,1,0.111332 
+"36","41487","08010","NY"," "," ","Laurel Hollow village, NY","Cold Spring Harbor Central School District",-73.475058,40.852405,1772,0.907787,0.927263 
+"36","41487","22290","NY"," "," ","Laurel Hollow village, NY","Oyster Bay-East Norwich Central School District",-73.488405,40.862513,180,0.092213,0.013629 
+"36","41553","16830","NY"," "," ","Lawrence village, NY","Lawrence Union Free School District",-73.729136,40.611968,6483,1,0.182158 
+"36","42081","09840","NY"," "," ","Levittown CDP, NY","East Meadow Union Free School District",-73.540406,40.738634,1877,0.036179,0.036025 
+"36","42081","15510","NY"," "," ","Levittown CDP, NY","Island Trees Union Free School District",-73.50016,40.729284,15424,0.297296,1 
+"36","42081","17160","NY"," "," ","Levittown CDP, NY","Levittown Union Free School District",-73.516667,40.721733,34580,0.666525,0.743017 
+"36","42279","17730","NY"," "," ","Lido Beach CDP, NY","Long Beach City School District",-73.623255,40.589493,2897,1,0.074945 
+"36","43192","17700","NY"," "," ","Locust Valley CDP, NY","Locust Valley Central School District",-73.595143,40.87761,3406,1,0.218054 
+"36","43335","17730","NY"," "," ","Long Beach city, NY","Long Beach City School District",-73.664616,40.587546,33275,1,0.86082 
+"36","43874","09960","NY"," "," ","Lynbrook village, NY","East Rockaway Union Free School District",-73.660336,40.654218,1233,0.063468,0.126241 
+"36","43874","17910","NY"," "," ","Lynbrook village, NY","Lynbrook Union Free School District",-73.676428,40.656772,12741,0.655839,0.723632 
+"36","43874","18210","NY"," "," ","Lynbrook village, NY","Malverne Union Free School District",-73.665836,40.66341,3929,0.202244,0.263674 
+"36","43874","29460","NY"," "," ","Lynbrook village, NY","Valley Stream Union Free School District 24",-73.686982,40.653929,1262,0.064961,0.091014 
+"36","43874","31710","NY"," "," ","Lynbrook village, NY","Hewlett-Woodmere Union Free School District",-73.687573,40.649589,262,0.013486,0.012871 
+"36","44787","18210","NY"," "," ","Malverne village, NY","Malverne Union Free School District",-73.668059,40.673405,4520,0.53089,0.303335 
+"36","44787","29430","NY"," "," ","Malverne village, NY","Valley Stream Union Free School District 13",-73.678626,40.675849,3994,0.46911,0.14125 
+"36","44792","18210","NY"," "," ","Malverne Park Oaks CDP, NY","Malverne Union Free School District",-73.66538,40.680452,324,0.641584,0.021744 
+"36","44792","30660","NY"," "," ","Malverne Park Oaks CDP, NY","West Hempstead Union Free School District",-73.659789,40.681977,181,0.358416,0.010575 
+"36","44897","12510","NY"," "," ","Manhasset CDP, NY","Great Neck Union Free School District",-73.706745,40.78007,933,0.11547,0.020929 
+"36","44897","18270","NY"," "," ","Manhasset CDP, NY","Manhasset Union Free School District",-73.692965,40.792739,7147,0.88453,0.442101 
+"36","44908","12510","NY"," "," ","Manhasset Hills CDP, NY","Great Neck Union Free School District",-73.68815,40.760851,291,0.081013,0.006528 
+"36","44908","14280","NY"," "," ","Manhasset Hills CDP, NY","Herricks Union Free School District",-73.678972,40.759003,3301,0.918986,0.133774 
+"36","45106","23580","NY"," "," ","Manorhaven village, NY","Port Washington Union Free School District",-73.714496,40.841843,6556,1,0.211001 
+"36","45986","18630","NY"," "," ","Massapequa CDP, NY","Massapequa Union Free School District",-73.471141,40.667736,20264,0.934471,0.429823 
+"36","45986","23190","NY"," "," ","Massapequa CDP, NY","Plainedge Union Free School District",-73.472389,40.690192,1421,0.065529,0.073841 
+"36","45997","10980","NY"," "," ","Massapequa Park village, NY","Farmingdale Union Free School District",-73.445924,40.701077,1832,0.107714,0.052766 
+"36","45997","18630","NY"," "," ","Massapequa Park village, NY","Massapequa Union Free School District",-73.449752,40.681667,15176,0.892286,0.3219 
+"36","46107","17700","NY"," "," ","Matinecock village, NY","Locust Valley Central School District",-73.584387,40.866499,810,1,0.051857 
+"36","46668","04410","NY"," "," ","Merrick CDP, NY","Bellmore Union Free School District",-73.546118,40.667477,68,0.003077,0.005423 
+"36","46668","19110","NY"," "," ","Merrick CDP, NY","Merrick Union Free School District",-73.550083,40.655292,17964,0.812961,1 
+"36","46668","20940","NY"," "," ","Merrick CDP, NY","North Bellmore Union Free School District",-73.547111,40.673736,177,0.00801,0.006786 
+"36","46668","21120","NY"," "," ","Merrick CDP, NY","North Merrick Union Free School District",-73.561345,40.673392,3888,0.175951,0.276627 
+"36","47405","17700","NY"," "," ","Mill Neck village, NY","Locust Valley Central School District",-73.566167,40.881011,266,0.2668,0.017029 
+"36","47405","22290","NY"," "," ","Mill Neck village, NY","Oyster Bay-East Norwich Central School District",-73.55052,40.886168,731,0.7332,0.055349 
+"36","47636","06540","NY"," "," ","Mineola village, NY","Carle Place Union Free School District",-73.62311,40.746582,874,0.046492,0.092821 
+"36","47636","10050","NY"," "," ","Mineola village, NY","East Williston Union Free School District",-73.629151,40.755335,1513,0.080483,0.17127 
+"36","47636","19500","NY"," "," ","Mineola village, NY","Mineola Union Free School District",-73.641395,40.746331,16412,0.873025,0.697522 
+"36","49231","18270","NY"," "," ","Munsey Park village, NY","Manhasset Union Free School District",-73.681637,40.799119,2693,1,0.166584 
+"36","49330","15810","NY"," "," ","Muttontown village, NY","Jericho Union Free School District",-73.534979,40.813145,796,0.227624,0.045884 
+"36","49330","17700","NY"," "," ","Muttontown village, NY","Locust Valley Central School District",-73.55968,40.832232,488,0.139548,0.031242 
+"36","49330","22290","NY"," "," ","Muttontown village, NY","Oyster Bay-East Norwich Central School District",-73.53551,40.834902,538,0.153846,0.040736 
+"36","49330","28560","NY"," "," ","Muttontown village, NY","Syosset Central School District",-73.519448,40.817435,1675,0.478982,0.048977 
+"36","50067","30960","NY"," "," ","New Cassel CDP, NY","Westbury Union Free School District",-73.568048,40.760152,14059,1,0.534685 
+"36","50397","10620","NY"," "," ","New Hyde Park village, NY","Elmont Union Free School District",-73.687254,40.725948,1689,0.173908,0.033759 
+"36","50397","20400","NY"," "," ","New Hyde Park village, NY","New Hyde Park-Garden City Park Union Free School District",-73.685974,40.733814,8023,0.826091,0.352706 
+"36","51517","20940","NY"," "," ","North Bellmore CDP, NY","North Bellmore Union Free School District",-73.538417,40.690181,19766,0.991224,0.757753 
+"36","51517","21120","NY"," "," ","North Bellmore CDP, NY","North Merrick Union Free School District",-73.548923,40.67639,175,0.008776,0.012451 
+"36","53022","12510","NY"," "," ","North Hills village, NY","Great Neck Union Free School District",-73.690614,40.767345,181,0.035665,0.00406 
+"36","53022","14280","NY"," "," ","North Hills village, NY","Herricks Union Free School District",-73.675609,40.770113,2709,0.533793,0.109783 
+"36","53022","18270","NY"," "," ","North Hills village, NY","Manhasset Union Free School District",-73.674263,40.783869,1820,0.358621,0.112582 
+"36","53022","25050","NY"," "," ","North Hills village, NY","Roslyn Union Free School District",-73.658571,40.786166,365,0.071921,0.020935 
+"36","53231","18210","NY"," "," ","North Lynbrook CDP, NY","Malverne Union Free School District",-73.673792,40.668761,793,1,0.053218 
+"36","53253","10980","NY"," "," ","North Massapequa CDP, NY","Farmingdale Union Free School District",-73.461781,40.706836,5900,0.329867,0.169936 
+"36","53253","18630","NY"," "," ","North Massapequa CDP, NY","Massapequa Union Free School District",-73.460674,40.694015,606,0.033881,0.012854 
+"36","53253","23190","NY"," "," ","North Massapequa CDP, NY","Plainedge Union Free School District",-73.47431,40.704225,11380,0.636251,0.591353 
+"36","53264","20940","NY"," "," ","North Merrick CDP, NY","North Bellmore Union Free School District",-73.553078,40.689062,2280,0.185789,0.087407 
+"36","53264","21120","NY"," "," ","North Merrick CDP, NY","North Merrick Union Free School District",-73.562003,40.685979,9992,0.814211,0.710921 
+"36","53275","11160","NY"," "," ","North New Hyde Park CDP, NY","Floral Park-Bellerose Union Free School District",-73.697878,40.734353,840,0.05638,0.041837 
+"36","53275","12510","NY"," "," ","North New Hyde Park CDP, NY","Great Neck Union Free School District",-73.696678,40.747721,3238,0.21733,0.072633 
+"36","53275","14280","NY"," "," ","North New Hyde Park CDP, NY","Herricks Union Free School District",-73.677051,40.753418,134,0.008994,0.00543 
+"36","53275","20400","NY"," "," ","North New Hyde Park CDP, NY","New Hyde Park-Garden City Park Union Free School District",-73.686256,40.744178,10687,0.717296,0.46982 
+"36","53748","10620","NY"," "," ","North Valley Stream CDP, NY","Elmont Union Free School District",-73.717007,40.686548,8882,0.534159,0.17753 
+"36","53748","29430","NY"," "," ","North Valley Stream CDP, NY","Valley Stream Union Free School District 13",-73.698386,40.681348,6435,0.386998,0.227578 
+"36","53748","29490","NY"," "," ","North Valley Stream CDP, NY","Valley Stream Union Free School District 30",-73.721402,40.679945,1311,0.078843,0.074391 
+"36","53792","17160","NY"," "," ","North Wantagh CDP, NY","Levittown Union Free School District",-73.507745,40.697963,11960,1,0.256983 
+"36","54441","09960","NY"," "," ","Oceanside CDP, NY","East Rockaway Union Free School District",-73.657963,40.642419,6,0.000187,0.000614 
+"36","54441","21570","NY"," "," ","Oceanside CDP, NY","Oceanside Union Free School District",-73.636747,40.636692,32103,0.999813,0.871251 
+"36","54551","04740","NY"," "," ","Old Bethpage CDP, NY","Bethpage Union Free School District",-73.466495,40.761308,324,0.058664,0.016905 
+"36","54551","10980","NY"," "," ","Old Bethpage CDP, NY","Farmingdale Union Free School District",-73.439724,40.739414,394,0.071338,0.011348 
+"36","54551","23220","NY"," "," ","Old Bethpage CDP, NY","Plainview-Old Bethpage Central School District",-73.456119,40.76495,4805,0.869998,0.167562 
+"36","54562","17700","NY"," "," ","Old Brookville village, NY","Locust Valley Central School District",-73.585786,40.84063,124,0.058107,0.007939 
+"36","54562","26370","NY"," "," ","Old Brookville village, NY","North Shore Central School District",-73.606849,40.831572,2010,0.941893,0.123056 
+"36","54705","10050","NY"," "," ","Old Westbury village, NY","East Williston Union Free School District",-73.614936,40.77677,1619,0.346606,0.183269 
+"36","54705","15810","NY"," "," ","Old Westbury village, NY","Jericho Union Free School District",-73.579541,40.796714,2402,0.514236,0.13846 
+"36","54705","25050","NY"," "," ","Old Westbury village, NY","Roslyn Union Free School District",-73.618056,40.798361,15,0.003211,0.00086 
+"36","54705","30960","NY"," "," ","Old Westbury village, NY","Westbury Union Free School District",-73.589947,40.778111,635,0.135945,0.02415 
+"36","55992","22290","NY"," "," ","Oyster Bay CDP, NY","Oyster Bay-East Norwich Central School District",-73.532128,40.865904,6707,1,0.507836 
+"36","56011","08010","NY"," "," ","Oyster Bay Cove village, NY","Cold Spring Harbor Central School District",-73.489392,40.848326,139,0.063268,0.072737 
+"36","56011","22290","NY"," "," ","Oyster Bay Cove village, NY","Oyster Bay-East Norwich Central School District",-73.504912,40.863743,1200,0.546199,0.090861 
+"36","56011","28560","NY"," "," ","Oyster Bay Cove village, NY","Syosset Central School District",-73.505185,40.843789,858,0.390532,0.025088 
+"36","58409","10980","NY"," "," ","Plainedge CDP, NY","Farmingdale Union Free School District",-73.468016,40.724183,2374,0.269253,0.068377 
+"36","58409","23190","NY"," "," ","Plainedge CDP, NY","Plainedge Union Free School District",-73.48104,40.72332,6443,0.730747,0.334805 
+"36","58442","04740","NY"," "," ","Plainview CDP, NY","Bethpage Union Free School District",-73.476597,40.765478,1786,0.068124,0.093186 
+"36","58442","23220","NY"," "," ","Plainview CDP, NY","Plainview-Old Bethpage Central School District",-73.480202,40.780939,23828,0.908875,0.830938 
+"36","58442","28560","NY"," "," ","Plainview CDP, NY","Syosset Central School District",-73.481493,40.794791,603,0.023,0.017632 
+"36","58475","18270","NY"," "," ","Plandome village, NY","Manhasset Union Free School District",-73.699547,40.806585,1349,1,0.083447 
+"36","58486","18270","NY"," "," ","Plandome Heights village, NY","Manhasset Union Free School District",-73.704267,40.802198,1005,1,0.062167 
+"36","58497","18270","NY"," "," ","Plandome Manor village, NY","Manhasset Union Free School District",-73.701503,40.814448,663,0.760321,0.041012 
+"36","58497","23580","NY"," "," ","Plandome Manor village, NY","Port Washington Union Free School District",-73.691469,40.811054,209,0.239679,0.006727 
+"36","58849","17730","NY"," "," ","Point Lookout CDP, NY","Long Beach City School District",-73.58017,40.590234,1219,1,0.031535 
+"36","59520","23580","NY"," "," ","Port Washington CDP, NY","Port Washington Union Free School District",-73.688066,40.830406,15846,1,0.509993 
+"36","59531","23580","NY"," "," ","Port Washington North village, NY","Port Washington Union Free School District",-73.702179,40.844918,3154,1,0.101509 
+"36","63264","03840","NY"," "," ","Rockville Centre village, NY","Baldwin Union Free School District",-73.62015,40.663617,431,0.017941,0.013125 
+"36","63264","09960","NY"," "," ","Rockville Centre village, NY","East Rockaway Union Free School District",-73.65559,40.655235,26,0.001082,0.002662 
+"36","63264","21570","NY"," "," ","Rockville Centre village, NY","Oceanside Union Free School District",-73.63648,40.65366,4377,0.1822,0.118788 
+"36","63264","24780","NY"," "," ","Rockville Centre village, NY","Rockville Centre Union Free School District",-73.638177,40.665306,19189,0.798776,0.873736 
+"36","63506","03840","NY"," "," ","Roosevelt CDP, NY","Baldwin Union Free School District",-73.597551,40.673874,205,0.012609,0.006243 
+"36","63506","11550","NY"," "," ","Roosevelt CDP, NY","Freeport Union Free School District",-73.574135,40.668655,557,0.03426,0.013936 
+"36","63506","24990","NY"," "," ","Roosevelt CDP, NY","Roosevelt Union Free School District",-73.585727,40.680055,15496,0.953131,0.879156 
+"36","63770","25050","NY"," "," ","Roslyn village, NY","Roslyn Union Free School District",-73.648695,40.796908,2770,1,0.158876 
+"36","63792","25050","NY"," "," ","Roslyn Estates village, NY","Roslyn Union Free School District",-73.661146,40.793318,1251,1,0.071752 
+"36","63803","25050","NY"," "," ","Roslyn Harbor village, NY","Roslyn Union Free School District",-73.637221,40.812034,516,0.490961,0.029596 
+"36","63803","26370","NY"," "," ","Roslyn Harbor village, NY","North Shore Central School District",-73.637371,40.821203,535,0.509039,0.032754 
+"36","63814","10050","NY"," "," ","Roslyn Heights CDP, NY","East Williston Union Free School District",-73.634538,40.773301,2742,0.416907,0.310392 
+"36","63814","14280","NY"," "," ","Roslyn Heights CDP, NY","Herricks Union Free School District",-73.654255,40.782736,364,0.055344,0.014751 
+"36","63814","25050","NY"," "," ","Roslyn Heights CDP, NY","Roslyn Union Free School District",-73.647173,40.787819,3471,0.527748,0.199082 
+"36","64232","12510","NY"," "," ","Russell Gardens village, NY","Great Neck Union Free School District",-73.724774,40.781528,945,1,0.021198 
+"36","64430","12510","NY"," "," ","Saddle Rock village, NY","Great Neck Union Free School District",-73.749638,40.794279,830,1,0.018618 
+"36","64441","12510","NY"," "," ","Saddle Rock Estates CDP, NY","Great Neck Union Free School District",-73.741617,40.793676,471,1,0.010565 
+"36","64842","09840","NY"," "," ","Salisbury CDP, NY","East Meadow Union Free School District",-73.559962,40.745163,12093,1,0.232102 
+"36","65035","23580","NY"," "," ","Sands Point village, NY","Port Washington Union Free School District",-73.704395,40.851041,2675,1,0.086093 
+"36","66047","26370","NY"," "," ","Sea Cliff village, NY","North Shore Central School District",-73.643599,40.845823,4995,1,0.305804 
+"36","66058","26400","NY"," "," ","Seaford CDP, NY","Seaford Union Free School District",-73.49214,40.669467,15294,1,0.941633 
+"36","66102","14280","NY"," "," ","Searingtown CDP, NY","Herricks Union Free School District",-73.660097,40.770998,4915,1,0.199181 
+"36","69001","10980","NY"," "," ","South Farmingdale CDP, NY","Farmingdale Union Free School District",-73.446409,40.717903,14486,1,0.417235 
+"36","69023","10620","NY"," "," ","South Floral Park village, NY","Elmont Union Free School District",-73.700542,40.713503,1764,1,0.035258 
+"36","69188","03840","NY"," "," ","South Hempstead CDP, NY","Baldwin Union Free School District",-73.618026,40.680744,101,0.031144,0.003076 
+"36","69188","14130","NY"," "," ","South Hempstead CDP, NY","Hempstead Union Free School District",-73.623852,40.68704,36,0.011101,0.000814 
+"36","69188","24780","NY"," "," ","South Hempstead CDP, NY","Rockville Centre Union Free School District",-73.622571,40.681442,2359,0.727413,0.107413 
+"36","69188","29280","NY"," "," ","South Hempstead CDP, NY","Uniondale Union Free School District",-73.617175,40.683769,747,0.230342,0.01777 
+"36","69892","16830","NY"," "," ","South Valley Stream CDP, NY","Lawrence Union Free School District",-73.724806,40.645473,55,0.009225,0.001545 
+"36","69892","29460","NY"," "," ","South Valley Stream CDP, NY","Valley Stream Union Free School District 24",-73.713416,40.653319,1023,0.171587,0.073778 
+"36","69892","29490","NY"," "," ","South Valley Stream CDP, NY","Valley Stream Union Free School District 30",-73.718282,40.657872,3485,0.584535,0.197753 
+"36","69892","31710","NY"," "," ","South Valley Stream CDP, NY","Hewlett-Woodmere Union Free School District",-73.720029,40.649188,1399,0.234653,0.068727 
+"36","71267","10620","NY"," "," ","Stewart Manor village, NY","Elmont Union Free School District",-73.685427,40.719928,1896,1,0.037896 
+"36","72554","22290","NY"," "," ","Syosset CDP, NY","Oyster Bay-East Norwich Central School District",-73.523423,40.841138,18,0.000956,0.001363 
+"36","72554","28560","NY"," "," ","Syosset CDP, NY","Syosset Central School District",-73.500771,40.813278,18811,0.999044,0.550029 
+"36","73605","12510","NY"," "," ","Thomaston village, NY","Great Neck Union Free School District",-73.715957,40.786786,2585,0.987772,0.057986 
+"36","73605","18270","NY"," "," ","Thomaston village, NY","Manhasset Union Free School District",-73.709167,40.785695,32,0.012228,0.001979 
+"36","76089","29280","NY"," "," ","Uniondale CDP, NY","Uniondale Union Free School District",-73.591916,40.701988,24759,1,0.588995 
+"36","76287","12510","NY"," "," ","University Gardens CDP, NY","Great Neck Union Free School District",-73.729337,40.774218,4226,1,0.094796 
+"36","76331","15810","NY"," "," ","Upper Brookville village, NY","Jericho Union Free School District",-73.578761,40.820206,32,0.018846,0.001845 
+"36","76331","17700","NY"," "," ","Upper Brookville village, NY","Locust Valley Central School District",-73.573029,40.838239,1231,0.72497,0.078809 
+"36","76331","22290","NY"," "," ","Upper Brookville village, NY","Oyster Bay-East Norwich Central School District",-73.544965,40.858107,428,0.252061,0.032407 
+"36","76331","26370","NY"," "," ","Upper Brookville village, NY","North Shore Central School District",-73.58788,40.833162,7,0.004122,0.000429 
+"36","76705","17910","NY"," "," ","Valley Stream village, NY","Lynbrook Union Free School District",-73.689686,40.663211,4,0.000107,0.000227 
+"36","76705","29430","NY"," "," ","Valley Stream village, NY","Valley Stream Union Free School District 13",-73.694711,40.671042,9908,0.264136,0.350403 
+"36","76705","29460","NY"," "," ","Valley Stream village, NY","Valley Stream Union Free School District 24",-73.699595,40.656759,11581,0.308736,0.835208 
+"36","76705","29490","NY"," "," ","Valley Stream village, NY","Valley Stream Union Free School District 30",-73.717255,40.671611,12827,0.341953,0.727855 
+"36","76705","31710","NY"," "," ","Valley Stream village, NY","Hewlett-Woodmere Union Free School District",-73.703687,40.647914,3191,0.085068,0.15676 
+"36","78146","20940","NY"," "," ","Wantagh CDP, NY","North Bellmore Union Free School District",-73.523744,40.679043,115,0.006094,0.004409 
+"36","78146","26400","NY"," "," ","Wantagh CDP, NY","Seaford Union Free School District",-73.504446,40.66757,948,0.050236,0.058367 
+"36","78146","29850","NY"," "," ","Wantagh CDP, NY","Wantagh Union Free School District",-73.510119,40.675929,17808,0.94367,1 
+"36","79444","06540","NY"," "," ","Westbury village, NY","Carle Place Union Free School District",-73.601845,40.75385,3561,0.236769,0.378186 
+"36","79444","30960","NY"," "," ","Westbury village, NY","Westbury Union Free School District",-73.584665,40.760423,11479,0.763231,0.436563 
+"36","80225","11460","NY"," "," ","West Hempstead CDP, NY","Franklin Square Union Free School District",-73.662423,40.698906,2158,0.11441,0.086399 
+"36","80225","14130","NY"," "," ","West Hempstead CDP, NY","Hempstead Union Free School District",-73.637405,40.702892,137,0.007263,0.003099 
+"36","80225","30660","NY"," "," ","West Hempstead CDP, NY","West Hempstead Union Free School District",-73.651565,40.696409,16567,0.878326,0.967925 
+"36","82117","14280","NY"," "," ","Williston Park village, NY","Herricks Union Free School District",-73.649823,40.759554,3166,0.434472,0.128303 
+"36","82117","19500","NY"," "," ","Williston Park village, NY","Mineola Union Free School District",-73.644319,40.758741,4121,0.565527,0.175146 
+"36","82744","28560","NY"," "," ","Woodbury CDP, NY","Syosset Central School District",-73.471045,40.815429,8907,1,0.260438 
+"36","82942","16830","NY"," "," ","Woodmere CDP, NY","Lawrence Union Free School District",-73.7248,40.6368,9791,0.57187,0.275105 
+"36","82942","31710","NY"," "," ","Woodmere CDP, NY","Hewlett-Woodmere Union Free School District",-73.710864,40.637141,7330,0.428129,0.36009 
+"36","82986","16830","NY"," "," ","Woodsburgh village, NY","Lawrence Union Free School District",-73.712128,40.625471,201,0.258355,0.005648 
+"36","82986","31710","NY"," "," ","Woodsburgh village, NY","Hewlett-Woodmere Union Free School District",-73.70708,40.623738,577,0.741645,0.028345 
+"36","99999","12510","NY"," "," "," ","Great Neck Union Free School District",-73.725747,40.789092,536,0.511939,0.012023 
+"36","99999","15810","NY"," "," "," ","Jericho Union Free School District",-73.550035,40.798465,4,0.00382,0.000231 
+"36","99999","17700","NY"," "," "," ","Locust Valley Central School District",-73.582456,40.903274,401,0.382999,0.025672 
+"36","99999","30960","NY"," "," "," ","Westbury Union Free School District",-73.568664,40.776674,106,0.101242,0.004031 

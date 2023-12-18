@@ -1,0 +1,166 @@
+Model Results
+=========================================
+
+Nassau vs Bergen, raw MHI
+---------------------------------
+Call:
+lm(formula = "mhi_diff ~  new_jersey + muni + township + sdsec + distance_m + distance_m2", 
+    data = df)
+
+Residuals:
+   Min     1Q Median     3Q    Max 
+-54708 -21971  -6393  14900 167648 
+
+Coefficients:
+                 Estimate Std. Error t value Pr(>|t|)    
+(Intercept)     2.596e+04  1.334e+03  19.456  < 2e-16 ***
+new_jerseyTRUE -1.681e+03  9.029e+02  -1.862   0.0626 .  
+muniTRUE        8.967e+03  1.317e+03   6.808 1.12e-11 ***
+townshipTRUE   -4.278e+03  2.085e+03  -2.051   0.0403 *  
+sdsecTRUE      -2.758e+02  1.284e+03  -0.215   0.8300    
+distance_m      1.363e+01  2.040e+00   6.679 2.69e-11 ***
+distance_m2    -2.204e-03  5.609e-04  -3.928 8.68e-05 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 29840 on 4592 degrees of freedom
+  (375 observations deleted due to missingness)
+Multiple R-squared:  0.04169,	Adjusted R-squared:  0.04044 
+F-statistic:  33.3 on 6 and 4592 DF,  p-value: < 2.2e-16
+
+Nassau vs Bergen with Queens as control, raw MHI
+------------------------------------------------
+Call:
+lm(formula = "mhi_diff ~  new_jersey + muni + township + sdsec + distance_m + distance_m2", 
+    data = df_queens)
+
+Residuals:
+   Min     1Q Median     3Q    Max 
+-48390 -17157  -5657  10966 171732 
+
+Coefficients:
+                 Estimate Std. Error t value Pr(>|t|)    
+(Intercept)     3.295e+04  5.563e+02  59.237   <2e-16 ***
+new_jerseyTRUE  6.962e+02  7.467e+02   0.932   0.3511    
+muniTRUE        1.377e+04  1.075e+03  12.808   <2e-16 ***
+townshipTRUE   -3.118e+03  1.774e+03  -1.757   0.0789 .  
+sdsecTRUE       2.261e+03  1.085e+03   2.084   0.0372 *  
+distance_m     -2.333e+00  1.700e-01 -13.725   <2e-16 ***
+distance_m2     9.609e-05  9.815e-06   9.790   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 25460 on 8479 degrees of freedom
+  (1066 observations deleted due to missingness)
+Multiple R-squared:  0.09107,	Adjusted R-squared:  0.09043 
+F-statistic: 141.6 on 6 and 8479 DF,  p-value: < 2.2e-16
+
+Nassau vs Bergen with Queens as control, logged MHI
+------------------------------------------------
+Call:
+lm(formula = "mhi_ln_diff ~  new_jersey + muni + township + sdsec + distance_m + distance_m2", 
+    data = df)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-0.38783 -0.19260 -0.06241  0.12159  2.25865 
+
+Coefficients:
+                 Estimate Std. Error t value Pr(>|t|)    
+(Intercept)     3.082e-01  5.813e-03  53.021  < 2e-16 ***
+new_jerseyTRUE  3.244e-02  7.802e-03   4.158 3.24e-05 ***
+muniTRUE        4.928e-02  1.123e-02   4.387 1.16e-05 ***
+townshipTRUE   -2.796e-02  1.854e-02  -1.508    0.132    
+sdsecTRUE       7.836e-03  1.133e-02   0.691    0.489    
+distance_m     -8.777e-06  1.776e-06  -4.942 7.88e-07 ***
+distance_m2     5.290e-10  1.026e-10   5.157 2.57e-07 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.266 on 8479 degrees of freedom
+  (1066 observations deleted due to missingness)
+Multiple R-squared:  0.01407,	Adjusted R-squared:  0.01338 
+F-statistic: 20.17 on 6 and 8479 DF,  p-value: < 2.2e-16
+
+Math vs. RLA Correlation
+=======================================================
+> cor.test(df$sdelm_math_diff, df$sdelm_rla_diff)
+
+	Pearson's product-moment correlation
+
+data:  df$sdelm_math_diff and df$sdelm_rla_diff
+t = 318.41, df = 9362, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.9550531 0.9584789
+sample estimates:
+      cor 
+0.9567992 
+
+Figuring out why muni*county has perfectly correlated interaction
+=================================================================
+
+Call:
+lm(formula = mhi_diff ~ muni * county + black_diff + hispanic_diff + 
+    white_diff + asian_diff + children_diff + distance_km + distance_km2, 
+    data = df)
+
+Residuals:
+   Min     1Q Median     3Q    Max 
+-64361 -15788  -4644  10859 152537 
+
+Coefficients: (1 not defined because of singularities)
+                      Estimate Std. Error t value Pr(>|t|)    
+(Intercept)            19191.5     1113.1  17.241  < 2e-16 ***
+muniTRUE               11602.1     1257.8   9.224  < 2e-16 ***
+countyBergen             638.9      864.5   0.739   0.4599    
+countyQueens           -8145.1      755.1 -10.787  < 2e-16 ***
+black_diff              4815.4     2750.8   1.751   0.0801 .  
+hispanic_diff          -3665.5     2684.0  -1.366   0.1721    
+white_diff             23390.9     2238.3  10.450  < 2e-16 ***
+asian_diff             -6278.0     2746.0  -2.286   0.0223 *  
+children_diff          23262.6     2717.8   8.559  < 2e-16 ***
+distance_km            13513.8     1438.6   9.394  < 2e-16 ***
+distance_km2           -2071.5      418.1  -4.955 7.38e-07 ***
+muniTRUE:countyBergen  -9953.8     1721.8  -5.781 7.68e-09 ***
+muniTRUE:countyQueens       NA         NA      NA       NA    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 24630 on 8474 degrees of freedom
+  (1066 observations deleted due to missingness)
+Multiple R-squared:   0.15,	Adjusted R-squared:  0.1489 
+F-statistic:   136 on 11 and 8474 DF,  p-value: < 2.2e-16
+
+*******
+Call:
+lm(formula = mhi_diff ~ muni * county + black_diff + hispanic_diff + 
+    white_diff + asian_diff + children_diff + distance_km + distance_km2, 
+    data = df_explore)
+
+Residuals:
+   Min     1Q Median     3Q    Max 
+-64361 -15788  -4644  10859 152537 
+
+Coefficients: (1 not defined because of singularities)
+                      Estimate Std. Error t value Pr(>|t|)    
+(Intercept)            11046.5      813.6  13.577  < 2e-16 ***
+muniTRUE                1648.3     1268.9   1.299   0.1940    
+countyNassau            8145.1      755.1  10.787  < 2e-16 ***
+countyBergen            8784.0      855.8  10.264  < 2e-16 ***
+black_diff              4815.4     2750.8   1.751   0.0801 .  
+hispanic_diff          -3665.5     2684.0  -1.366   0.1721    
+white_diff             23390.9     2238.3  10.450  < 2e-16 ***
+asian_diff             -6278.0     2746.0  -2.286   0.0223 *  
+children_diff          23262.6     2717.8   8.559  < 2e-16 ***
+distance_km            13513.8     1438.6   9.394  < 2e-16 ***
+distance_km2           -2071.5      418.1  -4.955 7.38e-07 ***
+muniTRUE:countyNassau   9953.8     1721.8   5.781 7.68e-09 ***
+muniTRUE:countyBergen       NA         NA      NA       NA    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 24630 on 8474 degrees of freedom
+  (1066 observations deleted due to missingness)
+Multiple R-squared:   0.15,	Adjusted R-squared:  0.1489 
+F-statistic:   136 on 11 and 8474 DF,  p-value: < 2.2e-16
