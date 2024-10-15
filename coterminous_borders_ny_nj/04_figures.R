@@ -54,7 +54,7 @@ tm_add_legend(
   col = c("red", "blue"),
   lwd = c(3, 2),
   lty = c("solid", "dotted"),
-  labels = c("School District", "Policy Agency/Precinct")
+  labels = c("School District", "Police Agency/Precinct")
 )
 
 # Marginal Effect Plots
