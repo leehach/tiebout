@@ -90,14 +90,14 @@ il <- get_decennial(geography = "county", variables = vars10, year = 2010,
 rm(vars10, il)
 
 # Group Quarters
-# NOT AVAILABLE AT TRACT LEVEL!!!
+# NOT AVAILABLE AT BLOCK GROUP LEVEL!!!
 df_group_quarters_test = get_acs(
   geography = "tract",
-  table = "B26103",
+  variables = c("B01003_001", "B26001_001"),
   year = 2019,
   output = "wide",
-  state = "NJ",
-  county = "Bergen",
+  state = "NY",
+  county = "Queens",
   geometry = FALSE
 )
 
@@ -456,3 +456,18 @@ df_example %>%
   pivot_longer(-geoid) %>%
   filter(sum(value)/2 < cumsum(value), .by = geoid) %>%
   slice_head(n = 1, by = geoid)
+
+tmp = df_demographics %>%
+  mutate(children_proportion = hh_children / hh_all) %>%
+  left_join(df_service_units, by = join_by(geoid == geoid))
+
+ggplot(tmp, aes(x = children_proportion, y = mhi)) +
+  geom_point() +
+  geom_smooth()
+
+summary(lm(mhi ~ children_proportion, tmp))
+
+ggplot(tmp, aes(x = sdelm_rla, y = children_proportion)) +
+  geom_point() +
+  geom_smooth()
+

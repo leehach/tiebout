@@ -84,6 +84,14 @@ plot(ggpredict(lm1f, c("property_diff", "muni"))) +
     col = "Municipal\nBorder",
     title = NULL
   )
+plot(ggpredict(lm1f, c("sdelm_rla_diff", "property_diff", "muni"))) +
+  labs(
+    x = "Elementary School District\nDifference in Reading & Language Arts (z-scores)",
+    y = "Median Household Income, Absolute Difference",
+    col = "Police Agency, \nDifference in Property \nCrimes per 100,000",
+    title = NULL,
+    subtitle = "Municipal Border"
+  )
 
 # Model G
 plot(ggpredict(lm1g, c("sdelm_rla_diff", "children_diff", "muni"))) +
